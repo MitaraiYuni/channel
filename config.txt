@@ -101,11 +101,6 @@
       "name": "中天亞洲"
     },
     {
-      "url": "rtmp://59.124.75.136/sat/tv421",
-      "name": "TVBS歡樂台",
-      "volume": 1.0
-    },
-    {
       "url": "https://www.youtube.com/watch?v=F4aby5WN1Rw",
       "name": "THE K-POP"
     },
