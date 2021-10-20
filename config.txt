@@ -29,7 +29,7 @@
       "name": "誠心電視台"
     },
    {
-      "url": "https://www.youtube.com/watch?v=au3LpxKgAIE",
+      "url": "https://www.youtube.com/watch?v=VD8dVG1DF1s",
       "name": "信吉衛視"
     },
     {
@@ -37,7 +37,7 @@
       "name": "天良綜合台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=O7lxIrpXKxc",
+      "url": "https://www.youtube.com/watch?v=fYcDmJ4XlZ0",
       "name": "信大電視台"
     },
    {
