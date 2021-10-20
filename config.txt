@@ -1,47 +1,6 @@
 {
   "channelList": [
     {
-      "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
-      "name": "民視"
-    },
-    {
-      "url": "https://4gtvfreemobile-mozai.4gtv.tv/2fHL3VemvonJvUpE2UXSfIkc-inr1UrEqZR3xx4XDyo%3d/stream2.m3u8?token=vGAFP7oR3xwQPY5fZnfpCQ&expires=1633215965&refer=NTkxNTAzMzAtNDZiNC00Y2U1LTlhYWItYzJkY2IzZTY5ZTlk&token1=rsT37TATlfrS0OSh3FYHJg&expires1=1633244765&y=0&vt=",
-      "name": "民視",
-      "volume": 1.0,
-      "header": "Referer: https://embed.4gtv.tv/"
-    },
-    {
-      "url": "https://4gtvfreemobile-mozai.4gtv.tv/MUJS2SIVCu8iu_6QOYw2tizYAgJKL0vwobjeRNB2yKU%3d/stream2.m3u8?token=MInEIHC9R2EJGHs0dxUc8g&expires=1633295062&refer=MzZmM2I4YTMtMTNiNC00ZmY1LTkxM2ItOTYxMzFhN2EwZTQ0&token1=CrrxMo-RKbUDUaInB8Xu8g&expires1=1633323862&y=0&vt=",
-      "name": "民視第一台",
-      "volume": 1.0,
-      "header": "Referer: https://embed.4gtv.tv/"
-    },
-    {
-      "url": "https://4gtvfreemobile-mozai.4gtv.tv/kIIdqFZGFnPMtMCmNGuIVHaeW6QkqC-2eWQmbrWn6jc%3d/stream2.m3u8?token=GeIQ2gCOR3m_AGWEcMSUIw&expires=1633296061&refer=ZDI5ZDFhMjktNWQ4Zi00NGI1LWFiMmYtYmIwZjMwZDg5NmI0&token1=hmnyJr-jKPu0poUOtPa0SQ&expires1=1633324861&y=0&vt=
-",
-      "name": "民視台灣台",
-      "volume": 1.0,
-      "header": "Referer: https://embed.4gtv.tv/"
-    },
-   {
-      "url": "https://4gtvfreemobile-mozai.4gtv.tv/n9RJ7qdhWdvU3MvlGjWnmYbtLFQsWKzkdkgPEGSa_c0%3d/stream2.m3u8?token=OYWf09gkbSCjDwHOaWbIGg&expires=1633296271&refer=NmQxNzBjNmMtNTQ4OS00NzA3LWI3NzctZTA2N2VkYjc3Yzhj&token1=DveIlRo1z6axAGd26PaIbQ&expires1=1633325071&y=0&vt=",
-      "name": "民視綜藝台",
-      "volume": 1.0,
-      "header": "Referer: https://www.4gtv.tv/"
-    },
-   {
-      "url": "https://4gtvfreemobile-mozai.4gtv.tv/cR8hOiHqTGbO6RQi5et1uQ4dzLL__6AvU8uDNu5Htx0%3d/stream2.m3u8?token=shcu2w-HflWQgV1AIcjtcA&expires=1633296323&refer=OTA0YzhiZDQtOTA1Yy00NThlLWI4NGYtNDJmMjU2NmEzM2E4&token1=7Jbg6_Kbp6GXX0VmRnh-Xg&expires1=1633325123&y=0&vt=",
-      "name": "民視旅遊台",
-      "volume": 1.0,
-      "header": "Referer: https://www.4gtv.tv/"
-    },
-   {
-      "url": "https://4gtvfreemobile-mozai.4gtv.tv/UitpQWZB4bZR0OTpx89Y8QUEWW3WjloRtUR2hX2OFO4%3d/stream2.m3u8?token=o_c7wmcD-MtCNGACj7f3qQ&expires=1633296648&refer=OTAyZjIwYmMtZjI3Yi00ZWY3LWFlY2QtMTQwNGY3MTY4MWY1&token1=LlKh2sz3oQy3tI6WDbPgGA&expires1=1633325448&y=0&vt=",
-      "name": "民視影劇台",
-      "volume": 1.0,
-      "header": "Referer: https://www.4gtv.tv/"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
       "name": "台視"
     },
@@ -52,10 +11,6 @@
     {
       "url": "https://www.youtube.com/watch?v=cnYQ_z7QfxE",
       "name": "公視台語台"
-    },
-   {
-      "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
-      "name": "原住民電視台"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
@@ -68,11 +23,6 @@
     {
       "url": "https://www.youtube.com/watch?v=MIqUplvSRWA",
       "name": "大愛海外台"
-    },
-    {
-      "url": " https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8",
-      "name": "NHK",
-      "volume": 1.0
     },
     {
       "url": "https://www.youtube.com/watch?v=-BSkImrvbys",
@@ -107,11 +57,6 @@
       "name": "壹電視新聞台"
     },
     {
-      "url": "http://125.227.210.55:11055/VideoInput/play.ts",
-      "name": "年代新聞台",
-      "volume": 1.0
-    },
-    {
       "url": "https://www.youtube.com/watch?v=FoBfXvlOR6I",
       "name": "三立新聞"
     },
@@ -144,12 +89,6 @@
       "name": "寰宇新聞"
     },
     {
-      "url": "https://cdn-dl01p.video.friday.tw/live/fet001.smil/playlist.m3u8",
-      "name": "非凡新聞",
-      "volume": 1.0,
-      "header": "Referer: https://video.friday.tw/tv"
-    },
-    {
       "url": "https://www.youtube.com/c/twctvnews/live",
       "name": "中視新聞"
     },
@@ -167,21 +106,6 @@
       "volume": 1.0
     },
     {
-      "url": "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on",
-      "name": "三立臺灣台",
-      "volume": 1.0
-    },
-    {
-      "url": "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on",
-      "name": "三立都會台",
-      "volume": 1.0
-    },
-    {
-      "url": "http://50.7.61.148:30080/Entry/starchinese",
-      "name": "衛視中文台",
-      "volume": 1.0
-    },
-    {
       "url": "https://www.youtube.com/watch?v=F4aby5WN1Rw",
       "name": "THE K-POP"
     },
@@ -190,127 +114,8 @@
       "name": "ALL THE K-POP"
     },
     {
-      "url": "http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8",
-      "name": "Astor AOD",
-      "volume": 1.0
-    },
-    {
-      "url": "http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8",
-      "name": "Astro歡喜",
-      "volume": 1.0
-    },
-    {
       "url": "https://www.youtube.com/watch?v=hBzlSpshEgc",
       "name": "幸福空間居家台"
-    },
-    {
-      "url": "https://newsstrm.myvideo.net.tw/HLS/AsiaTravel/03.m3u8",
-      "name": "亞洲旅遊台",
-      "volume": 1.0,
-      "header": "Referer: https://www.myvideo.net.tw/LiveChannel"
-    },
-    {
-      "url": "https://news2strm.myvideo.net.tw/bpk-tv/MOMOTV_OTT/HLS/MOMOTV_OTT-audio_132302_chi=128000-video=3200000.m3u8",
-      "name": "MOMO綜合台",
-      "volume": 1.0,
-      "header": "Referer: https://www.myvideo.net.tw/LiveChannel"
-    },
-    {
-      "url": "https://newsstrm.myvideo.net.tw/HLS/VODEdit1/3200k.m3u8",
-      "name": "myV電視台",
-      "volume": 1.0,
-      "header": "Referer: https://www.myvideo.net.tw/LiveChannel"
-    },
-    {
-      "url": "rtmp://59.124.75.136:1935/sat/tv771",
-      "name": "緯來日本台",
-      "volume": 1.0
-    },
-    {
-      "url": "rtmp://59.124.75.136:1935/sat/tv701",
-      "name": "緯來育樂台",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:10388/VideoInput/play.ts",
-      "name": "Discovery Asia",
-      "volume": 1.0
-    },
-    {
-      "url": "http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8",
-      "name": "動物星球",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:16408/VideoInput/play.ts",
-      "name": "國家地理頻道",
-      "volume": 1.0
-    },
-    {
-      "url": "http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8",
-      "name": "國家地理野生頻道",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:19020/VideoInput/play.ts",
-      "name": "TLC旅遊生活頻道",
-      "volume": 1.0
-    },
-    {
-      "url": "http://50.7.61.148:30080/Entry/hbo",
-      "name": "HBO",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:16027/VideoInput/play.ts",
-      "name": "HBO HD",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:18789/VideoInput/play.ts",
-      "name": "衛視洋片",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:18685/VideoInput/play.ts",
-      "name": "東森洋片台",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:17524/VideoInput/play.ts",
-      "name": "東森戲劇台",
-      "volume": 1.0
-    },
-    {
-      "url": "http://50.7.61.148:30080/Entry/axn",
-      "name": "AXN",
-      "volume": 1.0
-    },
-    {
-      "url": "http://125.227.210.55:14250/VideoInput/play.ts",
-      "name": "Disney Channel",
-      "volume": 1.0
-    },
-    {
-      "url": "https://newsstrm.myvideo.net.tw/HLS/CBeebies/03.m3u8",
-      "name": "CBeebies",
-      "volume": 1.0,
-      "header": "Referer: https://www.myvideo.net.tw/LiveChannel"
-    },
-    {
-      "url": "http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8",
-      "name": "BabyTV",
-      "volume": 1.0
-    },
-    {
-      "url": "http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8",
-      "name": "Kids TV",
-      "volume": 1.0
-    },
-    {
-      "url": "rtmp://59.124.75.136:1935/sat/tv721",
-      "name": "緯來體育台",
-      "volume": 1.0
     }
   ]
 }
