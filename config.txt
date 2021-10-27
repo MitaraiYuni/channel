@@ -25,7 +25,7 @@
       "name": "大愛海外台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-BSkImrvbys",
+      "url": "https://www.youtube.com/watch?v=kmLwAXo4THc",
       "name": "誠心電視台"
     },
    {
