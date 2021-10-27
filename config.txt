@@ -33,7 +33,7 @@
       "name": "信吉衛視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=4WfDoZWwrpg",
+      "url": "https://www.youtube.com/watch?v=3wL-R0o_3HE",
       "name": "天良綜合台"
     },
     {
